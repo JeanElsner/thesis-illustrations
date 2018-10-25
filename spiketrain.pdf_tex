@@ -58,5 +58,6 @@
     \put(-0.00274048,0.03964779){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{postsynaptic spike train $I_\mathrm{post}(t)$}}}%
     \put(0.42771033,0.47042405){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\vartheta$}}}%
     \put(0.40965375,0.15392817){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$u_\mathrm{rest}$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{spiketrain.pdf}}%
   \end{picture}%
 \endgroup%

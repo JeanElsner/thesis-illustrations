@@ -86,7 +86,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.594584"
-     inkscape:cx="291.02968"
+     inkscape:cx="413.7979"
      inkscape:cy="908.90048"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -159,12 +159,7 @@
        id="path6207-8-2-7"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M 72.630493,79.442603 H 142.92238"
-       id="path4487"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#5296c4;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        d="m 72.69731,79.442603 8.756557,-0.01515 c 0,0 0.09819,-10.073633 5.10268,-9.591143 3.164986,0.30514 8.804972,5.213383 14.930063,6.614583 0,0 0.50618,-10.883262 4.27515,-10.877294 2.36138,0.0037 3.28437,1.14441 3.28437,1.14441 0,0 0.0322,-13.348405 4.58534,-12.846443 2.29075,0.252544 3.35216,1.223675 3.35216,1.223675 0,0 -0.19195,-10.678255 3.74063,-10.509801 2.26028,0.09682 2.77946,0.871408 2.77946,0.871408 0,0 0.34908,-4.396255 1.49946,-5.751689 0.70652,-0.832463 1.52435,-1.051883 1.52435,-1.051883 v 40.774182 h 11.0558"
        id="path4771"
        inkscape:connector-curvature="0"
@@ -308,5 +303,10 @@
          x="67.984192"
          y="77.653801"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">$u_\mathrm{rest}$</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 72.630493,79.442603 H 142.92238"
+       id="path4487"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
